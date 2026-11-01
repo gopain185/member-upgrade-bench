@@ -68,3 +68,8 @@ Against the expectation, the observed changes are -2.2 sd (op1), -1.4 (op2), -1.
 ## License
 
 MIT for the code. The results are CC0 (see `kaggle/DATASHEET.md`).
+
+## Links
+
+- Notebook: https://www.kaggle.com/code/locdunhat/how-much-of-a-solo-gain-reaches-the-blend
+- Dataset: https://www.kaggle.com/datasets/locdunhat/ensemble-member-upgrade-benchmark

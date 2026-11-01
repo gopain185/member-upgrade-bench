@@ -15,8 +15,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "kaggle"
 DATASET_ID = "locdunhat/ensemble-member-upgrade-benchmark"
-NOTEBOOK_ID = "locdunhat/how-much-of-a-member-s-solo-gain-reaches-the-blend"
-TITLE = "How Much of a Member's Solo Gain Reaches the Blend?"
+NOTEBOOK_ID = "locdunhat/how-much-of-a-solo-gain-reaches-the-blend"
+TITLE = "How Much of a Solo Gain Reaches the Blend"
 
 
 def build_dataset(public: bool) -> Path:
