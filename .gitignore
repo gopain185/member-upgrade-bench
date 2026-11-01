@@ -1,0 +1,5 @@
+__pycache__/
+.pytest_cache/
+results/*_quick.csv
+kaggle/dataset/
+kaggle/notebook/
